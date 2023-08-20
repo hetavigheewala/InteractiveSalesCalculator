@@ -1,1 +1,3 @@
 # InteractiveSalesCalculator
+
+This Python code is an interactive program that performs various tasks based on user inputs. It starts by displaying the programmer's full name. It then prompts the user to enter their last name and checks if it matches "Python," indicating whether the user shares a name with a programming language. The program also asks for a number input and displays a message depending on whether the number falls within the range of 0 to 10. It further asks for the quantity of items sold and calculates discounts based on the quantity, providing detailed cost breakdowns including discounts and final costs.
